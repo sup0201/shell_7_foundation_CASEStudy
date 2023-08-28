@@ -39,6 +39,8 @@ The IT operations team will install Prometheus on the Azure VM. They will config
 
 On the Azure VM, the development team will craft a Dockerfile tailored for the Java Spring Boot application. This Dockerfile will define the steps necessary to package the application into a Docker container.
 
+docker file updated sucessfully
+
 ## Azure Web App Configuration:
 
 The IT team will configure a Azure Web App on Azure with specific performance and resource specifications to accommodate the development needs.
